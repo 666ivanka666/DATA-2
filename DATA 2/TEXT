@@ -1,0 +1,15 @@
+Network and structured data processing
+We refer to a network as a group of interconnected devices communicating with each other.
+
+Data processing
+
+refers to the use of software to manipulate, analyze and transform data
+involve a range of activities, including data input, storage, retrieval, analysis, visualization...
+Structured data: organized in a specific (mostly predefined) format, making it easy to search, sort, analyze etc.
+
+tabular data in a spreadsheet or CSV file
+hierarchically organized data in JSON file
+rows in a database table
+Unstructured data: does not have a predefined structure and cannot be easily organized or analyzed using "traditional" data processing tools. Examples: emails, social media posts, images, audio and video files, and documents with no clear formatting or organization. In a sense, here we also mention semi-structured data that has some structure, less than fully structured data and more than unstructured. Examples are HTML documents.
+
+Python Network Programming - Part one. Python Network Programming - Part two.
